@@ -1,3 +1,5 @@
+import { HasFormatter } from '../interfaces/HasFormatter.js'
+
 // classes
 export class Invoice {
     // readonly client: string;
