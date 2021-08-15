@@ -6,4 +6,4 @@
 - I may go back in the future and add files for each lesson in this tutorial
 
 <br>
-<img src="./public/React-and-typescript.png" alt="drawing" width="400" height="200"/>
+<img src="./public/React-and-typescript.png" alt="drawing" width="380" height="140"/>
